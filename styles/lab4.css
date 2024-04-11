@@ -64,7 +64,7 @@ body, html {
 .Learn-text button {
     padding: 10px 20px;
     font-size: 16px;
-    background-color: #007bff;
+    background-color: rgb(0, 0, 204);
     color: #ffffff;
     border: none;
     border-radius: 5px;
